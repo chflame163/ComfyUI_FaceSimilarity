@@ -1,0 +1,4 @@
+torch
+numpy
+opencv-contrib-python
+face-recognition
