@@ -1,6 +1,6 @@
 [project]
 name = "comfyui_facesimilarity"
-description = "A custom node for ComfyUI. It compare two images to rate facial similarity."
+description = ""
 version = "1.0.0"
 license = "LICENSE"
 dependencies = ["torch", "numpy", "opencv-contrib-python", "face-recognition"]
@@ -10,6 +10,6 @@ Repository = "https://github.com/chflame163/ComfyUI_FaceSimilarity"
 #  Used by Comfy Registry https://comfyregistry.org
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "chflame163"
 DisplayName = "ComfyUI_FaceSimilarity"
 Icon = ""

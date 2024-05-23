@@ -22,7 +22,7 @@ git clone https://github.com/chflame163/ComfyUI_FaceSimilarity.git
 * Or download the zip file and extracted, copy the resulting folder to ```ComfyUI\custom_ Nodes```    
 
 * Install ```dlib``` dependency package. Open the cmd window in the ComfyUI_LayerStyle plugin directory like    
-```ComfyUI\custom_ Nodes\ComfyUI_LayerStyle```, If it is the latest official ComfyUI portable package, please enter:
+```ComfyUI\custom_ Nodes\ComfyUI_FaceSimilarity```, If it is the latest official ComfyUI portable package, please enter:
 ```
 ..\..\..\python_embeded\python.exe -m pip install .\whl\dlib-19.24.1-cp311-cp311-win_amd64.whl
 ```
