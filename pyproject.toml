@@ -1,6 +1,6 @@
 [project]
 name = "comfyui_facesimilarity"
-description = ""
+description = "A custom node for ComfyUI. It compare two images to rate facial similarity."
 version = "1.0.0"
 license = "LICENSE"
 dependencies = ["torch", "numpy", "opencv-contrib-python", "face-recognition"]
